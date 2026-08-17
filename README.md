@@ -39,4 +39,4 @@ The release provided here is scanned before it's published.
 - ✅ **Analytics Dashboard:** Visual reports on project progress, team workload, and deadlines.
 
 ## ⚠️ Disclaimer
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor. 
